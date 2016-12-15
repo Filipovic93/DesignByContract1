@@ -1,5 +1,3 @@
- Contract.Requires<ArgumentNullException>(balance > 0, "Precondition failed, exception thrown");# DesignByContract1
-
 Its made with Design by Contract 
 
 The Account.cs class has been made with Design by Contract in mind, and it can be seen in the lines
